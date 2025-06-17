@@ -10,3 +10,8 @@ p {
   font-family: 'Comic Neue', cursive;
   font-size: 15px; 
 }
+
+img {
+  text-align: center 
+  border: 2px solid black;
+}
