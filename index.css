@@ -1,1 +1,12 @@
+h1 {
+  color: black;
+  weight: bold;
+  font-family: Helvetica;
+  font-size: 30px;
+}
 
+p {
+  color: pink; 
+  font-family: 'Comic Neue', cursive;
+  font-size: 15px; 
+}
